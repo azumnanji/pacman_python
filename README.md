@@ -1,6 +1,6 @@
 # Pac-Man in Python
 Programming the famous Pac-Man game in python (3.7.2) using pygame API with abstract data types and path-finding algorithms.
-
+![](pacman.gif)
 ## Installation instructions
 To play the game you first need to install pygame. This can be done using pip.
 ```
