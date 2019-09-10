@@ -1,5 +1,5 @@
 # Pac-Man in Python
-Programming the famous Pac-Man game in python (3.7.2) using pygame API with abstract data types and path-finding algorithms.
+Programming the famous Pac-Myan game in python (3.7.2) using pygame API with abstract data types and path-finding algorithms.
 
 
 ![](root/pacman.gif)
